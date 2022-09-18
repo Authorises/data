@@ -1,18 +1,18 @@
 [                    {
-                "name":"Odin",
-                "description":"A tool to manage and update multiple instances.",
-                "tags":["Java", "Socket.io", "Client/Server"],
+                "name":"Portfolio",
+                "description":"A simple portfolio to display your projects in a clean way.",
+                "tags":["NextJS", "JavaScript", "React"],
                 "github_link":"Authorises/Portfolio",
-                "demo_link":"https://google.com",
-                "spigot_link":"https://github.com",
-                "live_link":"https://netflix.com"
+                "demo_link":"",
+                "spigot_link":"",
+                "live_link":""
               },
               {
-                "name":"Odin",
-                "description":"A tool to manage and update multiple instances.",
-                "tags":["Java", "Socket.io", "Client/Server"],
-                "github_link":"",
-                "demo_link":"https://google.com",
-                "spigot_link":"https://github.com",
-                "live_link":"https://netflix.com"
+                "name":"Faction Alert Plugin",
+                "description":"A simple Spigot plugin to alert a message to everyone on your faction",
+                "tags":["Minecraft", "Spigot", "NMS"],
+                "github_link":"Authorises/FactionAlert",
+                "demo_link":"",
+                "spigot_link":"https://www.spigotmc.org/resources/faction-alert.102293/",
+                "live_link":""
               }]
