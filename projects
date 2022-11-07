@@ -8,43 +8,16 @@
                 "live_link":"https://authorises.vercel.app"
               },
               {
-                "name":"test1",
-                "description":"A simple Spigot plugin to alert a message to everyone on your faction",
-                "tags":["Minecraft", "Spigot", "NMS"],
-                "github_link":"Authorises/FactionAlert",
+                "name":"Paint",
+                "description":"A simple games where teams battle against eachother to control the board.",
+                "tags":["NodeJS", "Socket.IO", "Games"],
+                "github_link":"Authorises/paint",
                 "demo_link":"",
-                "spigot_link":"https://www.spigotmc.org/resources/faction-alert.102293/",
-                "live_link":""
+                "spigot_link":"",
+                "live_link":"paint.authorises.repl.co"
               },
               {
-                "name":"test2",
-                "description":"A simple Spigot plugin to alert a message to everyone on your faction",
-                "tags":["Minecraft", "Spigot", "NMS"],
-                "github_link":"Authorises/FactionAlert",
-                "demo_link":"",
-                "spigot_link":"https://www.spigotmc.org/resources/faction-alert.102293/",
-                "live_link":""
-              },
-              {
-                "name":"test3",
-                "description":"A simple Spigot plugin to alert a message to everyone on your faction",
-                "tags":["Minecraft", "Spigot", "NMS"],
-                "github_link":"Authorises/FactionAlert",
-                "demo_link":"",
-                "spigot_link":"https://www.spigotmc.org/resources/faction-alert.102293/",
-                "live_link":""
-              },
-              {
-                "name":"test4",
-                "description":"A simple Spigot plugin to alert a message to everyone on your faction",
-                "tags":["Minecraft", "Spigot", "NMS"],
-                "github_link":"Authorises/FactionAlert",
-                "demo_link":"",
-                "spigot_link":"https://www.spigotmc.org/resources/faction-alert.102293/",
-                "live_link":""
-              },
-              {
-                "name":"last!",
+                "name":"Faction Alert",
                 "description":"A simple Spigot plugin to alert a message to everyone on your faction",
                 "tags":["Minecraft", "Spigot", "NMS"],
                 "github_link":"Authorises/FactionAlert",
