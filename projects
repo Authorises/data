@@ -9,7 +9,7 @@
               },
               {
                 "name":"Paint",
-                "description":"A simple games where teams battle against eachother to control the board.",
+                "description":"A simple games where teams battle against each other to control the board.",
                 "tags":["NodeJS", "Socket.IO", "Games"],
                 "github_link":"Authorises/paint",
                 "demo_link":"",
